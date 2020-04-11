@@ -1,7 +1,7 @@
 # Machine-Learning-Project-2
 
 ## Advance Data Exploratory Anlysis
-## Different Machine learning language comparision
+## Different Machine learning algorithm comparision
 
 This Project is  bases advance exploratory data analysis and testing different machine learning algortihms.
 The dataset used for this project is from kaggle website called Titanic Dataset which  basically consits of inforamtion about 1309 passengers which are travelling on the ship.The dataset is splitted into two parts Train set and Test set.
